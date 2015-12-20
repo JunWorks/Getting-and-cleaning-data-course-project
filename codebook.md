@@ -5,6 +5,7 @@
 Explaination of variables in tidy.txt
 
 - subject: ID of test subject, values from 1-30
+
 - activity: activity label, has the following 6 values:
 
 1 WALKING
@@ -19,4 +20,4 @@ Explaination of variables in tidy.txt
 
 6 LAYING
 
-- rest variables: features chosen from features.txt, see readme and features_info.txt for details. 
+- rest variables: features chosen from features.txt, see readme and features_info.txt for details. The values under these variables are the average for each subject and his/her corresponding activity
