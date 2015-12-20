@@ -5,7 +5,8 @@
 Explaination of variables in tidy.txt
 
 - subject: ID of test subject, values from 1-30
-- activity: activity label, has the following 6 values: 
+- activity: activity label, has the following 6 values:
+
 1 WALKING
 
 2 WALKING_UPSTAIRS
